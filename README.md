@@ -86,7 +86,7 @@ Streak](https://github-readme-streak-stats.herokuapp.com?user=udaay&theme=elegan
 
 ### 📝 Blog & Articles
 
-Explore some of my thoughts and ideas on my [Blog](https://noobjs.com)
+Explore some of my thoughts and ideas on my Blog.
 [YET TO REGISTER THE DOMAIN]. Hopefully will make it soon.
 
 
