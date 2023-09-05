@@ -92,7 +92,7 @@ Explore some of my thoughts and ideas on my [Blog](https://noobjs.com)
 
 ### 🌠 Fun Fact
 
-Maybe someother time.
+Maybe some another time.
 
 <p align="center">
   <img src="obito-tobi.gif" alt="Your Favorite GIF" width="200">
