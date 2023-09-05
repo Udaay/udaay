@@ -14,7 +14,7 @@ height="200">
 
 <p align="center">
   <a href="https://github.com/udaay"><img 
-src="https://img.shields.io/github/followers/yourusername?style=social" 
+src="https://img.shields.io/github/followers/udaay?style=social" 
 alt="GitHub Followers"></a>
 </p>
 
