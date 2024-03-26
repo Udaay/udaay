@@ -20,7 +20,7 @@ alt="GitHub Followers"></a>
 
 ---
 
-### 🧠 A Bit About Me
+### 🧠 A Bit About Me : [Porfolio](https://uday-portfolio-io.netlify.app/)
 
 Myself Uday Singh, a passionate Software Engineer from India, and here's a 
 glimpse into my world:
