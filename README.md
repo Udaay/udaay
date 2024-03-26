@@ -2,7 +2,7 @@
 -->
 
 <p align="center">
-  <img src="./uday.webp" alt="Uday" width="200" 
+  <img src="./me.webp" alt="Uday" width="200" 
 height="200">
 </p>
 
