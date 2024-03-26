@@ -6,7 +6,7 @@
 height="200">
 </p>
 
-<h1 align="center">🚀 Welcome to my GitHub Universe!</h1>
+<h2 align="center">Hello  👋 , Checkout <a href="https://uday-portfolio-io.netlify.app/"> my profile</a> </h2>
 
 <p align="center">
   How big would you dream if you knew you couldn't fail ?
@@ -20,7 +20,7 @@ alt="GitHub Followers"></a>
 
 ---
 
-### 🧠 A Bit About Me : [Porfolio](https://uday-portfolio-io.netlify.app/)
+### 🧠 A Bit About Me
 
 Myself Uday Singh, a passionate Software Engineer from India, and here's a 
 glimpse into my world:
