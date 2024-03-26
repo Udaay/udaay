@@ -1,10 +1,10 @@
 <!-- Hi there! Feel free to replace the following with your own content. 
 -->
 
-<p align="center">
+<!--  <p align="center">
   <img src="./me.webp" alt="Uday" width="160" 
 height="200">
-</p>
+</p> -->
 
 <h2 align="center">Hello  👋  </h2>
 
